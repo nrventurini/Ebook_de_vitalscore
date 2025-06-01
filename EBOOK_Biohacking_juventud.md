@@ -153,23 +153,24 @@ Recuerda: no necesitas cambiarlo todo hoy. Pero cada decisión que tomas, cada h
 
 ## Referencias científicas
 
-\[1] Li, Y. et al. (2018). Healthy lifestyle and life expectancy. *The Lancet Public Health*. [https://doi.org/10.1016/S2468-2667(18)30057-7](https://doi.org/10.1016/S2468-2667%2818%2930057-7)
+[1] Li, Y. et al. (2018). *Healthy lifestyle and life expectancy*. The Lancet Public Health. [https://doi.org/10.1016/S2468-2667(18)30057-7](https://doi.org/10.1016/S2468-2667(18)30057-7)
 
-\[2] Saint-Maurice, P. F. et al. (2020). Association of daily step count and step intensity with mortality. *JAMA*. [https://doi.org/10.1001/jama.2020.1382](https://doi.org/10.1001/jama.2020.1382)
+[2] Saint-Maurice, P. F. et al. (2020). *Association of Daily Step Count and Step Intensity With Mortality Among US Adults*. JAMA. [https://doi.org/10.1001/jama.2020.1382](https://doi.org/10.1001/jama.2020.1382)
 
-\[3] Pedersen, B. K. (2019). Physical activity and muscle as modulators of chronic disease. *Nature Reviews Endocrinology*. [https://doi.org/10.1038/s41574-019-0176-8](https://doi.org/10.1038/s41574-019-0176-8)
+[3] Pedersen, B. K. (2019). *Physical activity and muscle as modulators of chronic disease*. Nature Reviews Endocrinology. [https://doi.org/10.1038/s41574-019-0176-8](https://doi.org/10.1038/s41574-019-0176-8)
 
-\[4] Longo, V. D. & Panda, S. (2016). Fasting, circadian rhythms, and time-restricted feeding. *Cell Metabolism*. [https://doi.org/10.1016/j.cmet.2016.06.001](https://doi.org/10.1016/j.cmet.2016.06.001)
+[4] Longo, V. D. & Panda, S. (2016). *Fasting, circadian rhythms, and time-restricted feeding*. Cell Metabolism. [https://doi.org/10.1016/j.cmet.2016.06.001](https://doi.org/10.1016/j.cmet.2016.06.001)
 
-\[5] Mattison, J. A. et al. (2012). Impact of caloric restriction on health and survival in rhesus monkeys from the NIA study. *Nature*. [https://doi.org/10.1038/nature11432](https://doi.org/10.1038/nature11432)
+[5] Mattison, J. A. et al. (2012). *Impact of caloric restriction on health and survival in rhesus monkeys from the NIA study*. Nature. [https://doi.org/10.1038/nature11432](https://doi.org/10.1038/nature11432)
 
-\[6] Luyster, F. S. et al. (2021). Short sleep duration and chronic disease risk. *Nature Communications*. [https://doi.org/10.1038/s41467-021-21251-1](https://doi.org/10.1038/s41467-021-21251-1)
+[6] Luyster, F. S. et al. (2021). *Short sleep duration and chronic disease risk*. Nature Communications. [https://doi.org/10.1038/s41467-021-21251-1](https://doi.org/10.1038/s41467-021-21251-1)
 
-\[7] Epel, E. S. et al. (2004). Accelerated telomere shortening in response to life stress. *PNAS*. [https://doi.org/10.1073/pnas.0407162101](https://doi.org/10.1073/pnas.0407162101)
+[7] Epel, E. S. et al. (2004). *Accelerated telomere shortening in response to life stress*. PNAS. [https://doi.org/10.1073/pnas.0407162101](https://doi.org/10.1073/pnas.0407162101)
 
-\[8] Boehm, J. K. et al. (2019). Optimism and longevity in a cohort of older adults. *PNAS*. [https://doi.org/10.1073/pnas.1900712116](https://doi.org/10.1073/pnas.1900712116)
+[8] Boehm, J. K. et al. (2019). *Optimism and longevity in a cohort of older adults*. PNAS. [https://doi.org/10.1073/pnas.1900712116](https://doi.org/10.1073/pnas.1900712116)
 
-\[9] Ahadi, S. et al. (2020). Personal aging markers and biological age prediction. *Nature Medicine*. [https://doi.org/10.1038/s41591-020-0965-6](https://doi.org/10.1038/s41591-020-0965-6)
+[9] Ahadi, S. et al. (2020). *Personal aging markers and biological age prediction*. Nature Medicine. [https://doi.org/10.1038/s41591-020-0965-6](https://doi.org/10.1038/s41591-020-0965-6)
+
 
 ---
 
