@@ -153,7 +153,7 @@ Recuerda: no necesitas cambiarlo todo hoy. Pero cada decisión que tomas, cada h
 
 ## Referencias científicas
 
-[1] Li, Y. et al. (2018). *Healthy lifestyle and life expectancy*. The Lancet Public Health. [https://doi.org/10.1016/S2468-2667(18)30057-7](https://doi.org/10.1016/S2468-2667(18)30057-7)
+[1] Li, Y. et al. (2018). *Healthy lifestyle and life expectancy*. The Lancet Public Health. [https://doi.org/10.1016/S2468-2667(18)30057-7](https://doi.org/10.1016/S2468-2667(22)00110-4)
 
 [2] Saint-Maurice, P. F. et al. (2020). *Association of Daily Step Count and Step Intensity With Mortality Among US Adults*. JAMA. [https://doi.org/10.1001/jama.2020.1382](https://doi.org/10.1001/jama.2020.1382)
 
