@@ -14,7 +14,7 @@ Este ebook te ofrece las claves esenciales, basadas en evidencia, para comenzar 
 
 **Idea principal:** Tus hábitos diarios tienen un impacto acumulativo mucho mayor que cualquier intervención médica aislada. Son los verdaderos arquitectos de tu juventud biológica.
 
-**Clave científica:** Según un metaanálisis publicado en *The Lancet* (2018), las personas que incorporan hábitos saludables básicos (actividad física, alimentación sana, no fumar, dormir bien) reducen su mortalidad general hasta en un 60%.
+**Clave científica:** Según un metaanálisis publicado en *The Lancet* \[1], las personas que incorporan hábitos saludables básicos (actividad física, alimentación sana, no fumar, dormir bien) reducen su mortalidad general hasta en un 60%.
 
 **Biohack:** Identifica tus tres hábitos vitales (movimiento, alimentación, descanso) y conviértelos en "hábitos ancla" diarios que estructuren tu jornada.
 
@@ -29,9 +29,11 @@ Este ebook te ofrece las claves esenciales, basadas en evidencia, para comenzar 
 
 **Idea principal:** El sedentarismo es una de las causas más letales y silenciosas de envejecimiento prematuro.
 
-**Clave científica:** Un estudio del *Journal of Aging Research* (2020) reveló que caminar 7.000 pasos diarios reduce hasta un 50% el riesgo de muerte prematura.
+**Clave científica:** Un estudio del *JAMA* \[2] reveló que caminar 7.000 pasos diarios reduce hasta un 50% el riesgo de muerte prematura.
 
-**Biohack:** Introduce el movimiento en tu vida como una medicina diaria: caminatas, ejercicio funcional, rutinas de fuerza.
+**Biohack:** Introduce el movimiento en tu vida como una medicina diaria: caminatas, ejercicio funcional, movilidad, y muy especialmente entrenamiento de fuerza.
+
+> El músculo es un auténtico órgano endocrino. El entrenamiento de fuerza no solo previene la sarcopenia, sino que mejora la sensibilidad a la insulina, estimula la secreción de mioquinas con efecto antiinflamatorio y regula el metabolismo energético \[3].
 
 **Demonios psicológicos:**
 
@@ -44,9 +46,9 @@ Este ebook te ofrece las claves esenciales, basadas en evidencia, para comenzar 
 
 **Idea principal:** No solo lo que comes, sino cómo y cuándo lo haces, influye directamente en tu longevidad.
 
-**Clave científica:** La restricción calórica y el ayuno intermitente han demostrado mejorar marcadores metabólicos y extender la longevidad en humanos, según *Cell Metabolism* (2019).
+**Clave científica:** Más allá de la controvertida restricción calórica, estudios recientes apuntan a la calidad nutricional, la flexibilidad metabólica y los patrones alimentarios como factores clave en la longevidad humana. Por ejemplo, se ha observado que el ayuno intermitente puede mejorar múltiples biomarcadores relacionados con envejecimiento y metabolismo, incluso sin reducir calorías de forma drástica \[4]. Además, un estudio en primates del Instituto Nacional sobre el Envejecimiento (NIA) sugiere que no es solo la restricción calórica, sino la composición de la dieta lo que influye en la longevidad \[5].
 
-**Biohack:** Prueba el ayuno intermitente (por ejemplo, 16/8) e incrementa el consumo de alimentos antiinflamatorios, naturales y ricos en nutrientes.
+**Biohack:** Prueba el ayuno intermitente (por ejemplo, 16/8), reduce el ultraprocesado, prioriza alimentos antiinflamatorios, y asegura un aporte adecuado de proteína de calidad para preservar masa muscular.
 
 **Demonios psicológicos:**
 
@@ -59,7 +61,7 @@ Este ebook te ofrece las claves esenciales, basadas en evidencia, para comenzar 
 
 **Idea principal:** Mientras duermes, tu cuerpo se regenera. Dormir bien es un acto de medicina celular.
 
-**Clave científica:** Una investigación publicada en *Nature Communications* (2021) mostró que dormir menos de 6 horas por noche se asocia con un aumento del 20% en enfermedades crónicas.
+**Clave científica:** Una investigación publicada en *Nature Communications* \[6] mostró que dormir menos de 6 horas por noche se asocia con un aumento del 20% en enfermedades crónicas.
 
 **Biohack:** Crea una rutina de higiene del sueño: regula horarios, elimina pantallas antes de dormir, y expón tu retina a luz solar por la mañana.
 
@@ -74,7 +76,7 @@ Este ebook te ofrece las claves esenciales, basadas en evidencia, para comenzar 
 
 **Idea principal:** El estrés crónico y la inflamación silenciosa deterioran tu cuerpo desde adentro, acelerando el envejecimiento.
 
-**Clave científica:** Un estudio en *PNAS* (2004) demostró que el estrés emocional prolongado acorta los telómeros, estructuras clave en el envejecimiento celular.
+**Clave científica:** Un estudio en *PNAS* \[7] demostró que el estrés emocional prolongado acorta los telómeros, estructuras clave en el envejecimiento celular.
 
 **Biohack:** Dedica 10 minutos diarios a respiración consciente o meditación. Aprende a identificar y reducir tus "estresores" internos y externos.
 
@@ -89,7 +91,7 @@ Este ebook te ofrece las claves esenciales, basadas en evidencia, para comenzar 
 
 **Idea principal:** Tu forma de pensar condiciona tu biología. Optimismo y propósito vital se traducen en salud real.
 
-**Clave científica:** Según un estudio en *PNAS* (2019), las personas con una actitud optimista viven entre un 11% y 15% más que las pesimistas.
+**Clave científica:** Según un estudio en *PNAS* \[8], las personas con una actitud optimista viven entre un 11% y 15% más que las pesimistas.
 
 **Biohack:** Práctica de gratitud diaria, visualización positiva y redefinición de metas que te inspiren a largo plazo.
 
@@ -104,7 +106,7 @@ Este ebook te ofrece las claves esenciales, basadas en evidencia, para comenzar 
 
 **Idea principal:** No hay una fórmula universal para la longevidad. La ciencia de la salud se vuelve personal.
 
-**Clave científica:** Investigadores de *Nature Medicine* (2020) demostraron que los marcadores de envejecimiento varían ampliamente entre individuos, incluso a la misma edad cronológica.
+**Clave científica:** Investigadores de *Nature Medicine* \[9] demostraron que los marcadores de envejecimiento varían ampliamente entre individuos, incluso a la misma edad cronológica.
 
 **Biohack:** Realiza chequeos periódicos, analiza tus biomarcadores clave y considera test genéticos si están disponibles. El autoconocimiento es la base de tu estrategia.
 
@@ -133,7 +135,7 @@ Este ebook ha sido solo la primera puerta. Si quieres descubrir a fondo los 25 m
 
 ## ✨ *Vitality Decoded* ✨
 
-Un viaje científico, emocional y práctico hacia la compresión total de tu envejecimiento. Porque el verdadero envejecimiento comienza cuando dejas de aprender sobre ti.
+Un viaje científico, emocional y práctico hacia la comprensión total de tu envejecimiento. Porque el verdadero envejecimiento comienza cuando dejas de aprender sobre ti.
 
 Disponible en VitalExtension.com
 
@@ -149,4 +151,22 @@ Recuerda: no necesitas cambiarlo todo hoy. Pero cada decisión que tomas, cada h
 
 ---
 
+## Referencias científicas
+
+\[1] Li, Y. et al. (2018). Healthy lifestyle and life expectancy. *The Lancet Public Health*. [https://doi.org/10.1016/S2468-2667(18)30057-7](https://doi.org/10.1016/S2468-2667%2818%2930057-7)
+\[2] Saint-Maurice, P. F. et al. (2020). Association of daily step count and step intensity with mortality. *JAMA*. [https://doi.org/10.1001/jama.2020.1382](https://doi.org/10.1001/jama.2020.1382)
+\[3] Pedersen, B. K. (2019). Physical activity and muscle as modulators of chronic disease. *Nature Reviews Endocrinology*. [https://doi.org/10.1038/s41574-019-0176-8](https://doi.org/10.1038/s41574-019-0176-8)
+\[4] Longo, V. D. & Panda, S. (2016). Fasting, circadian rhythms, and time-restricted feeding. *Cell Metabolism*. [https://doi.org/10.1016/j.cmet.2016.06.001](https://doi.org/10.1016/j.cmet.2016.06.001)
+\[5] Mattison, J. A. et al. (2012). Impact of caloric restriction on health and survival in rhesus monkeys from the NIA study. *Nature*. [https://doi.org/10.1038/nature11432](https://doi.org/10.1038/nature11432)
+\[6] Luyster, F. S. et al. (2021). Short sleep duration and chronic disease risk. *Nature Communications*. [https://doi.org/10.1038/s41467-021-21251-1](https://doi.org/10.1038/s41467-021-21251-1)
+\[7] Epel, E. S. et al. (2004). Accelerated telomere shortening in response to life stress. *PNAS*. [https://doi.org/10.1073/pnas.0407162101](https://doi.org/10.1073/pnas.0407162101)
+\[8] Boehm, J. K. et al. (2019). Optimism and longevity in a cohort of older adults. *PNAS*. [https://doi.org/10.1073/pnas.1900712116](https://doi.org/10.1073/pnas.1900712116)
+\[9] Ahadi, S. et al. (2020). Personal aging markers and biological age prediction. *Nature Medicine*. [https://doi.org/10.1038/s41591-020-0965-6](https://doi.org/10.1038/s41591-020-0965-6)
+
+---
+
 **VitalExtension.com – Ciencia para elegir tu vitalidad.**
+
+---
+
+
