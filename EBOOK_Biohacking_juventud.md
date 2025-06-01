@@ -6,6 +6,8 @@ La juventud no es solo una etapa; es un estado fisiológico que puede extenderse
 
 Este ebook te ofrece las claves esenciales, basadas en evidencia, para comenzar a aplicar el biohacking de forma segura y efectiva. Cada capítulo presenta un principio de longevidad respaldado por la ciencia y una advertencia: los demonios psicológicos que sabotean incluso los mejores propósitos. Reconocerlos es el primer paso para vencerlos.
 
+> **VitalExtension.com cree que la longevidad no se improvisa, se diseña.** Y por eso hemos creado herramientas científicas para ayudarte a reprogramar tu biología.
+
 ---
 
 ## Capítulo 1: Arquitectos de Juventud – Tus hábitos
@@ -111,6 +113,30 @@ Este ebook te ofrece las claves esenciales, basadas en evidencia, para comenzar 
 * **El Negacionista Saludable:** Piensa que si se siente bien, está bien, y evita revisar su salud.
 * **El Aplazador Crónico:** Siempre deja para mañana ese chequeo o análisis que podría salvarle el futuro.
 
+> **VitalExtension.com ofrece tests avanzados de secuenciación genómica, nutrigenómica y microbioma que permiten personalizar tu longevidad.** Lo que no se mide, no se puede mejorar.
+
+---
+
+## Epílogo Inspiracional: Tu Biología Tiene un Código
+
+Hoy puedes empezar con biohacks sencillos. Pero si quieres descubrir tu verdadera hoja de ruta hacia una vida más larga y vital, necesitas mirar dentro de ti con herramientas científicas reales.
+
+La clave para una longevidad inteligente es entender tus genes, tu microbioma, tus biomarcadores, tu reloj biológico. Porque **cuanto más sabes de tu biología, más puedes reprogramarla**.
+
+**En VitalExtension.com creemos que el desconocimiento envejece.** Por eso, hemos creado herramientas prácticas, tecnológicas y científicas para democratizar la medicina de precisión.
+
+---
+
+## ¿Y si quieres ir más allá?
+
+Este ebook ha sido solo la primera puerta. Si quieres descubrir a fondo los 25 mecanismos del envejecimiento, cómo ralentizarlos uno a uno, y acceder a más de 100 biohacks validados científicamente, te recomendamos nuestro libro:
+
+## ✨ *Vitality Decoded* ✨
+
+Un viaje científico, emocional y práctico hacia la compresión total de tu envejecimiento. Porque el verdadero envejecimiento comienza cuando dejas de aprender sobre ti.
+
+Disponible en VitalExtension.com
+
 ---
 
 ## Conclusión
@@ -120,3 +146,7 @@ La longevidad no es un privilegio reservado a unos pocos, sino una posibilidad a
 Recuerda: no necesitas cambiarlo todo hoy. Pero cada decisión que tomas, cada hábito que eliges, cada pensamiento que sostienes... es una forma de reescribir tu destino celular.
 
 **Tu juventud está en tus manos.**
+
+---
+
+**VitalExtension.com – Ciencia para elegir tu vitalidad.**
